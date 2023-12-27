@@ -15,3 +15,7 @@ Select a code snippet from the list and go to the respective subfolder.
 ### 101 - Count Unique URLs
 
 Some functions to count unique URLs: how many unique normalized valid URLs were passed to the function, how many unique normalized valid URLs were passed to the function per top level domain, etc.
+
+### 102 - Battle Simulator (Tkinter)
+
+A very simple battle simulator set in Ancient Rome. Desktop app using Tkinter.
