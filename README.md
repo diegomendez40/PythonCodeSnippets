@@ -2,19 +2,21 @@
 
 A portfolio of Python code snippets.
 
-This repository will include the (expanded) versions of code snippets related to the development of machine learning (ML) algorithms, as well as job tests and other small pieces of working code developed by Diego Méndez Romero.
+This repository will include code snippets and small pieces of working code related to Python, some hobby projects of mine and ML/AI.
 
 ## Getting started
 
 Select a code snippet from the list and go to the respective subfolder.
 
-## List of code snippets
+### List of code snippets
 
  101 - Count Unique URLs
 
+---
+
 ### 101 - Count Unique URLs
 
-Some functions to count unique URLs: how many unique normalized valid URLs were passed to the function, how many unique normalized valid URLs were passed to the function per top level domain, etc.
+Functions to count unique URLs: how many unique normalized valid URLs were passed, how many per top level domain, etc.
 
 ### 102 - Battle Simulator (Tkinter)
 
