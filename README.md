@@ -11,6 +11,7 @@ Select a code snippet from the list and go to the respective subfolder.
 ### List of code snippets
 
  101 - Count Unique URLs
+ 102 - Battle Simulator (Tkinter)
 
 ---
 
