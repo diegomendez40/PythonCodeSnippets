@@ -30,7 +30,7 @@ Functions to count unique URLs: how many unique normalized valid URLs were passe
 
 ### 102 - Battle Simulator (Tkinter)
 
-A very simple battle simulator set in Ancient Rome. Desktop app using Tkinter.
+A simple battle simulator set in Ancient Rome. Desktop app using Tkinter.
 
 ### 103 - Positive Biopsy Risk (Flask)
 
