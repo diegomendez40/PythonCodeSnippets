@@ -10,6 +10,8 @@ Select a code snippet from the list and go to the respective subfolder.
 
 ### List of code snippets
 
+100 - Welcome Mat
+
 101 - Count Unique URLs
 
 102 - Battle Simulator (Tkinter)
@@ -17,6 +19,10 @@ Select a code snippet from the list and go to the respective subfolder.
 103 - Positive Biopsy Risk (Flask)
 
 ---
+
+### 100 - Welcome Mat
+
+Provides a customized Welcome message design for any mat size input.
 
 ### 101 - Count Unique URLs
 
