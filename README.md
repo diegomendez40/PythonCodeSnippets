@@ -38,4 +38,9 @@ A web calculator for prostate cancer risk based on the number and severity (RADS
 
 ![Positive Biopsy Risk Calculator Form](103%20Positive%20Biopsy%20Risk/assets/H001_BiopsyRisk_form.png "Positive Biopsy Risk Calculator Form")
 
+### 104 - Two-player flamenco fight in the streets of Seville (PyGame)
+
+Hit your opponent's tip of the witch hat to deplete her health and win!
+
+![Flamenco Fight in Seville](104%202p_flamenco_fight/Images/2p_Flamenco_Fight_Seville_capture.jpg "A flamenco witch fight in the streets of Seville")
 
