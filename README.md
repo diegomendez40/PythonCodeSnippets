@@ -20,6 +20,8 @@ Select a code snippet from the list and go to the respective subfolder.
 
 104 - Two-player flamenco fight in the streets of Seville (PyGame)
 
+105 - Wireless Communications
+
 ---
 
 ### 100 - Welcome Mat
@@ -46,3 +48,6 @@ Hit your opponent's tip of the witch hat to deplete her health and win!
 
 ![Flamenco Fight in Seville](104%202p_flamenco_fight/Images/2p_Flamenco_Fight_Seville_capture.jpg "A flamenco witch fight in the streets of Seville")
 
+### 105 - Wireless Communications
+
+Tutorials for engineering students and code snippets related to my work as a professor at the UC3M and my research interests in wireless communications, channel estimation, tracking and learning, etc. (-- WORK IN PROGRESS --)
