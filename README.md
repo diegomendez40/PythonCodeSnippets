@@ -22,6 +22,8 @@ Select a code snippet from the list and go to the respective subfolder.
 
 105 - Wireless Communications
 
+106 - Concurrency Performance Tests
+
 ---
 
 ### 100 - Welcome Mat
@@ -51,3 +53,7 @@ Hit your opponent's tip of the witch hat to deplete her health and win!
 ### 105 - Wireless Communications
 
 Tutorials for engineering students and code snippets related to my work as a professor at the UC3M and my research interests in wireless communications, channel estimation, tracking and learning, etc. (-- WORK IN PROGRESS --)
+
+### 106 - Concurrency Performance Tests (Python, Cython, C++)
+
+A performance analysis for different modes of concurrent programming in Python, Cython and C++ for different machines and tasks. (-- WORK IN PROGRESS --)
