@@ -22,7 +22,7 @@ Select a code snippet from the list and go to the respective subfolder.
 
 105 - Wireless Communications
 
-106 - Concurrency Performance Tests
+106 - Concurrency Performance Tests (Python, Cython, C++)
 
 ---
 
