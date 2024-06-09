@@ -12,7 +12,7 @@ Select a code snippet from the list and go to the respective subfolder.
 
 100 - Welcome Mat
 
-101 - Count Unique URLs
+101 - Tiny Utilities
 
 102 - Battle Simulator (Tkinter)
 
@@ -30,9 +30,12 @@ Select a code snippet from the list and go to the respective subfolder.
 
 Provides a customized Welcome message design for any mat size input.
 
-### 101 - Count Unique URLs
+### 101 - Tiny Utilities
 
-Functions to count unique URLs: how many unique normalized valid URLs were passed, how many per top level domain, etc.
+A suite of tiny utility codes, including:
+
+- Functions to count unique URLs: how many unique normalized valid URLs were passed, how many per top level domain, etc.
+- Bookbot: a text analyser (word count, letter count e.g. for deciphering)
 
 ### 102 - Battle Simulator (Tkinter)
 
