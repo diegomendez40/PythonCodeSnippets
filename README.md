@@ -24,6 +24,8 @@ Select a code snippet from the list and go to the respective subfolder.
 
 106 - Concurrency Performance Tests (Python, Cython, C++)
 
+107 - Autonomous Agents (python, asyncio, ZooKeper, Kafka)
+
 ---
 
 ### 100 - Welcome Mat
