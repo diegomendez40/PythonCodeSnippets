@@ -60,3 +60,9 @@ Tutorials for engineering students and code snippets related to my work as a pro
 ### 106 - Concurrency Performance Tests (Python, Cython, C++)
 
 A performance analysis for different modes of concurrent programming in Python, Cython and C++ for different machines and tasks. (-- WORK IN PROGRESS --)
+
+### 107 - Autonomous Agents (python, asyncio, ZooKeper, Kafka)
+
+A FlamencoWitches-styled prototype of autonomous agents producing and consuming processing streams of data (python, asyncio, ZooKeeper, Kafka).
+
+For an expanded, up-to-date version, visit this repo: https://github.com/diegomendez40/FlamencoWitchesAgents
